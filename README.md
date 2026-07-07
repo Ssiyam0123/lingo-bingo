@@ -1,8 +1,22 @@
-# React + Vite
+# Lingo Bingo - Vocabulary Learning Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Website**: https://Ssiyam0123.github.io/lingo-bingo/
 
-Currently, two official plugins are available:
+## Project Description
+Lingo Bingo is an interactive and user-friendly web application designed to help users expand their vocabulary in a fun and structured way. Users can learn new words, tutorials, track their progress, and test their skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Interactive Vocabulary Lessons**: Learn new words organized by lessons and categories.
+- **Tutorials**: Educational videos and tutorials to help users understand language pronunciation and usage.
+- **User Authentication**: Secure Login/Register system powered by Firebase.
+- **My Profile**: View and update user profile details like name and photo URL.
+- **Protected Routes**: Secure pages ensuring user authentication before access.
+
+## Technologies Used
+- **React (Vite)**
+- **Tailwind CSS & DaisyUI**
+- **Firebase Authentication**
+- **React Router DOM**
+- **Framer Motion** (for smooth UI animations)
+- **React Slick** (for sliders)
+- **Lottie React** (for engaging animations)

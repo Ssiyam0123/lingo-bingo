@@ -1,6 +1,6 @@
 # Lingo Bingo - Vocabulary Learning Application
 
-**Live Website**: https://Ssiyam0123.github.io/lingo-bingo/
+**Live Website**: https://siyam-io.github.io/lingo-bingo/
 
 ## Project Description
 Lingo Bingo is an interactive and user-friendly web application designed to help users expand their vocabulary in a fun and structured way. Users can learn new words, tutorials, track their progress, and test their skills.

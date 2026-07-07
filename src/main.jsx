@@ -43,7 +43,7 @@ const router = createBrowserRouter([
           </ProtectedRoute>
         ),
         loader: async ({ params }) => {
-          const res = await fetch("/data.json");
+          const res = await fetch(`${import.meta.env.BASE_URL}data.json`);
           const data = await res.json();
           return data.filter((item) => item.lesson_no == params.id);
         },

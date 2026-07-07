@@ -95,7 +95,9 @@ const router = createBrowserRouter([
   
  
   
-]);
+], {
+  basename: "/lingo-bingo"
+});
 
 
 createRoot(document.getElementById('root')).render(
